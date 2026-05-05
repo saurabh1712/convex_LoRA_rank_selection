@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# Allow specific files
+!README.md
+!LICENSE
+!convex_rank_selection_final.ipynb
+!*.png
+!.gitignore
+
+# Keep standard ignores
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
